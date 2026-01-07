@@ -16,8 +16,10 @@ IT Support / Junior Systems Administrator with hands-on experience supporting Wi
 - Ticket documentation, escalation, customer support
 
 ## Projects
-1. Active Directory Enterprise Lab (Windows Server)
-2. Linux System Administration Basics (accounts, SSH, logs)
+- [Active Directory Enterprise Lab](active-directory-lab)
+- [Linux System Administration](linux-system-admin)
+- [IT Support Ticket Troubleshooting Playbook](ticket-troubleshooting)
+
 
  
 
