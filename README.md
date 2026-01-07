@@ -4,6 +4,7 @@
 Brooklyn, NY | CompTIA A+, Network+, Security+ | Active Directory | SCCM | Intune | Windows | Linux
 
 ## About Me
+This portfolio is designed to demonstrate job-ready skills for IT Support and Junior Systems Administrator roles, with a focus on documentation, troubleshooting, and system ownership.
 IT Support / Junior Systems Administrator with hands-on experience supporting Windows and macOS endpoints, administering Active Directory, deploying software and updates with SCCM, and troubleshooting networking issues (DNS/DHCP/VPN/Wi-Fi). This portfolio showcases real-world labs and support scenarios documented in a way that mirrors production environments.
 
 ## Core Skills
