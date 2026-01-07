@@ -17,10 +17,9 @@ IT Support / Junior Systems Administrator with hands-on experience supporting Wi
 
 ## Projects
 1. Active Directory Enterprise Lab (Windows Server)
-2. Ticket Troubleshooting Playbook (real support scenarios)
-3. Linux System Administration Basics (accounts, SSH, logs)
-4. Endpoint Management (SCCM / Intune workflows)
-5. Cloud Fundamentals (IAM + secure access) 
+2. Linux System Administration Basics (accounts, SSH, logs)
+
+ 
 
 ## Real-World Use Cases
 - New hire onboarding
