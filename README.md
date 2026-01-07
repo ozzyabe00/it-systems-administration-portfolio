@@ -21,3 +21,8 @@ IT Support / Junior Systems Administrator with hands-on experience supporting Wi
 3. Linux System Administration Basics (accounts, SSH, logs)
 4. Endpoint Management (SCCM / Intune workflows)
 5. Cloud Fundamentals (IAM + secure access) 
+
+## Real-World Use Cases
+- New hire onboarding
+- Account lockout resolution
+- Access provisioning and removal
